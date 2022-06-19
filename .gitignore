@@ -16,3 +16,5 @@ web-build/
 # ide
 .idea
 .vscode
+
+.eslintcache
